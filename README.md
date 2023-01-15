@@ -1,4 +1,6 @@
-# 
+# react_chatroom
+
+this is a react based real-time chat application with firebase as database you can chat with your friends having common chatroom name and other users can also chat in some other chatrooms at the same time with realtime chat experience
 
 
 <img width="960" alt="5" src="https://user-images.githubusercontent.com/100835323/212552867-f0ada59e-e455-42cd-abd6-3ae6d0d585f7.png">
